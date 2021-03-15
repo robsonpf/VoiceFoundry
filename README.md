@@ -11,7 +11,7 @@ BONUS - a working Amazon Connect phone number to test in your environment :-)
 3. BONUS - Build a deployment package with AWS SAM, AWS CDK, or CloudFormation to allow a user, or assignment reviewer, to deploy your solution into their own AWS Account/Amazon Connect instance. (The contact flow can be imported manually, but include instructions!)
 4. SUPER BONUS - a web app that displays the vanity numbers from the last 5 callers.
 5. Writing and Documentation
-  1. Record your reasons for implementing the solution the way you did, struggles you faced and problems you overcame.
-  2. What shortcuts did you take that would be a bad practice in production?
-  3. What would you have done with more time? We know you have a life. :-)
-  4. BONUS - Please include an architecture diagram.
+    1. Record your reasons for implementing the solution the way you did, struggles you faced and problems you overcame.
+    2. What shortcuts did you take that would be a bad practice in production?
+    3. What would you have done with more time? We know you have a life. :-)
+    4. BONUS - Please include an architecture diagram.
